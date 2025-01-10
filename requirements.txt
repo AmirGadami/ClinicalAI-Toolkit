@@ -1,0 +1,6 @@
+dvc
+pytest
+pandas
+numpy
+notebook
+ipykernel
